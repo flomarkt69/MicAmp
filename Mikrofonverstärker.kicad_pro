@@ -58,7 +58,48 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|149505000|86600000|85ff911d-092d-4dc0-8b9c-fc9afc50f99f|e42e7ce4-9be5-454f-84ce-927acb968bd7",
+          ""
+        ],
+        [
+          "hole_clearance|149505000|86600000|f5140909-a926-43d8-a5b2-65af50e85e85|e42e7ce4-9be5-454f-84ce-927acb968bd7",
+          ""
+        ],
+        [
+          "hole_clearance|149505000|86800000|2b40c5aa-e55f-4ea5-ba6d-3232f7a9230e|e42e7ce4-9be5-454f-84ce-927acb968bd7",
+          ""
+        ],
+        [
+          "hole_clearance|149505000|86800000|2b79c217-080d-4206-858e-a0d77c384394|e42e7ce4-9be5-454f-84ce-927acb968bd7",
+          ""
+        ],
+        [
+          "hole_clearance|149505000|92200000|68cb0152-e96d-4bdb-a6e0-ec35e1ba3be7|7135f579-a426-43dd-8e3e-611fa7a730fd",
+          ""
+        ],
+        [
+          "hole_clearance|149505000|92200000|bb3bf20d-ae74-4e30-bf8e-a8a2779ad861|7135f579-a426-43dd-8e3e-611fa7a730fd",
+          ""
+        ],
+        [
+          "hole_clearance|149505000|92400000|f683886e-2474-4e2f-83cc-1ff014924439|7135f579-a426-43dd-8e3e-611fa7a730fd",
+          ""
+        ],
+        [
+          "hole_clearance|149505000|92400000|fece492a-2059-4177-84e1-7048d6e40dd6|7135f579-a426-43dd-8e3e-611fa7a730fd",
+          ""
+        ],
+        [
+          "silk_edge_clearance|143200000|85030000|a1b50e12-4074-4f5a-9144-fb7de7f32334|85690fee-c8fc-4043-a3dc-cf6d219a392e",
+          ""
+        ],
+        [
+          "silk_edge_clearance|143200000|93970000|a1b50e12-4074-4f5a-9144-fb7de7f32334|ab1f86b5-e529-4a9b-b936-a4a0b461f20b",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -133,8 +174,8 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
-        "min_text_thickness": 0.08,
+        "min_text_height": 0.2,
+        "min_text_thickness": 0.02,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.0,
         "min_via_annular_width": 0.13,
@@ -188,9 +229,11 @@
       ],
       "track_widths": [
         0.0,
+        0.28,
         0.3,
-        0.431,
-        0.6
+        0.56,
+        0.6,
+        0.7
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
