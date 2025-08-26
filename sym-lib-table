@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PCM2906C")(type "KiCad")(uri "${KIPRJMOD}/Library/PCM2906CDB/KiCADv6/2025-07-29_05-21-16.kicad_sym")(options "")(descr ""))
+  (lib (name "CM108B")(type "KiCad")(uri "${KIPRJMOD}/Library/CM108B/CM108B.kicad_sym")(options "")(descr ""))
+)
