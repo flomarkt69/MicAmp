@@ -60,36 +60,36 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|149505000|86600000|85ff911d-092d-4dc0-8b9c-fc9afc50f99f|e42e7ce4-9be5-454f-84ce-927acb968bd7",
-          ""
+          "hole_clearance|149505000|86600000|e42e7ce4-9be5-454f-84ce-927acb968bd7|85ff911d-092d-4dc0-8b9c-fc9afc50f99f",
+          "its from the footprint"
         ],
         [
-          "hole_clearance|149505000|86600000|f5140909-a926-43d8-a5b2-65af50e85e85|e42e7ce4-9be5-454f-84ce-927acb968bd7",
-          ""
+          "hole_clearance|149505000|86600000|e42e7ce4-9be5-454f-84ce-927acb968bd7|f5140909-a926-43d8-a5b2-65af50e85e85",
+          "its from the footprint"
         ],
         [
-          "hole_clearance|149505000|86800000|2b40c5aa-e55f-4ea5-ba6d-3232f7a9230e|e42e7ce4-9be5-454f-84ce-927acb968bd7",
-          ""
+          "hole_clearance|149505000|86800000|e42e7ce4-9be5-454f-84ce-927acb968bd7|2b40c5aa-e55f-4ea5-ba6d-3232f7a9230e",
+          "its from the footprint"
         ],
         [
-          "hole_clearance|149505000|86800000|2b79c217-080d-4206-858e-a0d77c384394|e42e7ce4-9be5-454f-84ce-927acb968bd7",
-          ""
+          "hole_clearance|149505000|86800000|e42e7ce4-9be5-454f-84ce-927acb968bd7|2b79c217-080d-4206-858e-a0d77c384394",
+          "its from the footprint"
         ],
         [
-          "hole_clearance|149505000|92200000|68cb0152-e96d-4bdb-a6e0-ec35e1ba3be7|7135f579-a426-43dd-8e3e-611fa7a730fd",
-          ""
+          "hole_clearance|149505000|92200000|7135f579-a426-43dd-8e3e-611fa7a730fd|68cb0152-e96d-4bdb-a6e0-ec35e1ba3be7",
+          "its from the footprint"
         ],
         [
-          "hole_clearance|149505000|92200000|bb3bf20d-ae74-4e30-bf8e-a8a2779ad861|7135f579-a426-43dd-8e3e-611fa7a730fd",
-          ""
+          "hole_clearance|149505000|92200000|7135f579-a426-43dd-8e3e-611fa7a730fd|bb3bf20d-ae74-4e30-bf8e-a8a2779ad861",
+          "its from the footprint"
         ],
         [
-          "hole_clearance|149505000|92400000|f683886e-2474-4e2f-83cc-1ff014924439|7135f579-a426-43dd-8e3e-611fa7a730fd",
-          ""
+          "hole_clearance|149505000|92400000|7135f579-a426-43dd-8e3e-611fa7a730fd|f683886e-2474-4e2f-83cc-1ff014924439",
+          "its from the footprint"
         ],
         [
-          "hole_clearance|149505000|92400000|fece492a-2059-4177-84e1-7048d6e40dd6|7135f579-a426-43dd-8e3e-611fa7a730fd",
-          ""
+          "hole_clearance|149505000|92400000|7135f579-a426-43dd-8e3e-611fa7a730fd|fece492a-2059-4177-84e1-7048d6e40dd6",
+          "its from the footprint"
         ],
         [
           "silk_edge_clearance|143200000|85030000|a1b50e12-4074-4f5a-9144-fb7de7f32334|85690fee-c8fc-4043-a3dc-cf6d219a392e",
