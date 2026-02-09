@@ -21471,6 +21471,30 @@
 		(layer "Edge.Cuts")
 		(uuid "a1b50e12-4074-4f5a-9144-fb7de7f32334")
 	)
+	(gr_text "MUTE\nSWITCH"
+		(at 116.4 58.6 0)
+		(layer "F.SilkS")
+		(uuid "12214a11-daf4-4012-833c-4ded11b809bd")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.05)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "GAIN"
+		(at 117.6 76.2 0)
+		(layer "F.SilkS")
+		(uuid "64296e51-b274-454d-993a-45ba14553b17")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.05)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "MUTE"
 		(at 94.8 56.15 0)
 		(layer "F.SilkS")
@@ -21487,6 +21511,18 @@
 		(at 95 52.95 0)
 		(layer "F.SilkS")
 		(uuid "9a964e39-fb58-44b9-95ea-041909ec2cf3")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.05)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "MIC"
+		(at 117.4 66.5 0)
+		(layer "F.SilkS")
+		(uuid "f7974605-7393-45b9-9960-20021a6166c9")
 		(effects
 			(font
 				(size 0.4 0.4)
